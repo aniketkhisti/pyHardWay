@@ -1,2 +1,2 @@
 # pyHardWay
-Learn Python The Hard Way and Git/Github Excercise
+Learn Python The Hard Way and Git/Github Exercise
